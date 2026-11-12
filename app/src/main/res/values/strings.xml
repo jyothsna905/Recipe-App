@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recipe Finder</string>
+    <!-- Optional Firebase setup: paste values from Firebase project settings. -->
+    <string name="firebase_api_key">AIzaSyD3eJOp2jMCbkj_8ge2-ww3oHzdEVDaux4</string>
+    <string name="firebase_app_id">1:423347857114:android:dcce71dd73b942714a27e3</string>
+    <string name="firebase_project_id">recipefinder-6f33f</string>
+    <string name="firebase_project_number">423347857114</string>
+</resources>
